@@ -4,7 +4,7 @@
   "description": "An app for finding the weather forecast of any location",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "author": "Alex Bradau",
   "license": "ISC",
